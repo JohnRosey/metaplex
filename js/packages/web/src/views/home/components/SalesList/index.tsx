@@ -31,8 +31,8 @@ export const SalesListView = () => {
     <>
       <Banner
         src="/main-banner.svg"
-        headingText="The amazing world of Metaplex."
-        subHeadingText="Buy exclusive Metaplex NFTs."
+        headingText="We are Rodwoko-NFT"
+        subHeadingText="Buy exclusive  Rodwoko-NFTs of Burkina Faso"
         actionComponent={<HowToBuyModal buttonClassName="secondary-btn" />}
         useBannerBg
       />

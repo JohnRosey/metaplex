@@ -1,6 +1,6 @@
 export const data = {
   headContent: {
-    title: 'We are Metaplex',
+    title: 'We are Rodwoko-NFT',
     subtitle: 'About Us',
     bannerImage: '/main-banner.png',
   },
